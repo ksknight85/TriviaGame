@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    background: url(../images/background.jpg);
+}
+
+/* Formatting for game box */
+.gameWindow {
+    max-width: 1000px;
+    width: 100%;
+    height: 635px;
+    background-color: #25a7e1;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    font-size: 60pt;
+    text-align: center;
+    top: 40px;
+    font-weight: 700;
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+
+
+
+
