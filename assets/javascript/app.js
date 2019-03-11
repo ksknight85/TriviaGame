@@ -148,6 +148,7 @@ function decrement2() {
 function endGame() {
     if (questionDisplayed === (questions.length-1)) {
         stopTimer();
+        $(".answerText").empty();
         $(".question").empty();
         $(".answers").empty();
         $(".timeRemaining").empty();
